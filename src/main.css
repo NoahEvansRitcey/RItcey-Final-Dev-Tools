@@ -1,0 +1,47 @@
+
+/*CSS for all consitent designs (Header, Navigation,Footer)*/
+
+body{
+    margin: 0;
+    background-color:#CBC0AD;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+}
+
+#header {
+ background-color: #E5BE9E;
+ color: #361D2E;
+ 
+}
+
+#navigation{
+    background-color:antiquewhite;
+    font-variant: small-caps;
+}
+
+
+
+#footer{
+    background-color: #361D2E;
+    color: white;
+}
+
+/*Homepage Specific CSS*/
+
+#content{
+    font-size: 1.1rem;
+    color:#361D2E;
+}
+
+/*Nero page specific CSS*/
+
+img{
+    width: 40%;
+    height: auto;
+}
+
+
+
+
+
+
