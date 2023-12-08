@@ -33,12 +33,18 @@ body{
     color:#361D2E;
 }
 
+/* Styling for contact page images*/
+.contactImages{
+    width: 50%;
+    height: auto;
+}
 /*image styling for cat pages*/
 
 img{
     width: 40%;
     height: auto;
 }
+
 
 
 
